@@ -1,0 +1,29 @@
+:root{
+    --lightblue: lightblue;
+}
+
+:hover{
+    text-decoration: underline;
+    color: red;
+    background-color: blue;
+
+}
+div.h1{
+    justify-content: center;
+}
+button{
+    background-color: blanchedalmond;
+    color: white;
+}
+
+body{
+    background-color: var(--lightblue);
+}
+
+/* body{
+    background-color: lightseagreen;
+} */
+
+.container{
+    font-size: 30pt;
+}
