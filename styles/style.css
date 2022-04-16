@@ -2,11 +2,17 @@
     --lightblue: lightblue;
 }
 
-:hover{
+/* :hover{
     text-decoration: underline;
     color: red;
     background-color: blue;
 
+} */
+
+ul,  li {
+    list-style: none;
+    list-style-position: outside;
+    list-style-type:none;
 }
 div.h1{
     justify-content: center;
