@@ -8,11 +8,16 @@
     background-color: blue;
 
 } */
+a, div.li, div.ul{
+    color: black;
+}
 
-ul,  li {
+
+ul, a, li {
     list-style: none;
     list-style-position: outside;
     list-style-type:none;
+    color: black;
 }
 div.h1{
     justify-content: center;
